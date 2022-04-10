@@ -169,17 +169,53 @@ img, img.responsive {
 	font-weight: 700;
 	font-style: italic;
 }
-.color-greenalt {
-	color: #CCC81E;
+.color-red {
+	color: #D97883;
 }
-.color-grey {
-	color: #7f8c8d;
+.color-darkred {
+    color: #A55C6D;
 }
-.color-white {
-	color: #FFFFFF;
+.color-lightred {
+    color: #ffc5c1;
 }
+.color-yellow {
+    color: #FAD18F;
+}
+.color-darkyellow {
+    color: #DBAA82;
+}
+.color-lightyellow {
+    color: #FFE6C5;
+}
+
+.color-purple {
+    color: #A698D5;
+}
+.color-darkpurple {
+    color: #7373A7;
+}
+.color-lightpurple {
+    color: #C2C0E5;
+}
+
 .color-blue {
-	color: #18549C;
+    color: #87CEE0;
+}
+.color-darkblue {
+    color: #7AA0C4;
+}
+.color-lightblue {
+    color: #CDE7E6;
+}
+
+.color-green {
+    color: #BAD97C;
+}
+.color-darkgreen {
+    color: #A6A97A;
+}
+.color-lightgreen {
+    color: #E6E8D3;
 }
 .pageloader { 
 	background: url(../images/loader.gif) center center no-repeat #fff;  

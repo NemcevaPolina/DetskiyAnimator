@@ -227,8 +227,8 @@ img, img.responsive {
     z-index: 99999;	
 }
 /* ------------- Section Background ------------- */
-.header-section { background-color:#cdc81e; }
-.features-section  { background-color:#ecf0f1; }
+.header-section { background-color:#D97883; }
+.features-section  { background-color:#FAD18F; }
 .reviews-section { background-color:#ffffff; }
 .app-services-section { background-color:#18549b; }
 .app-screen-section { background-color:#ecf0f1; }
@@ -342,7 +342,7 @@ img, img.responsive {
 }
 /* ------------- Logo & Menu ------------- */
 .logo-container {
-	background: rgba(186, 217, 124);
+	background: rgba(166, 152, 213);
 	color: #fff;
 	padding: 16px 0 13px;
 }
@@ -359,11 +359,11 @@ img, img.responsive {
 .top-navbar ul.nav a {	
 	font-size: 13px;
 	font-weight: 800;	
-	color: #CCC81E;
+	color: #E6E8D3;
 }
 .top-navbar ul.nav a:hover, .top-navbar ul.nav a:focus, .top-navbar ul.nav a:active, .top-navbar ul.nav li.active a {
 	background:none !important;
-	color: #fff;
+	color: #7373A7;
 }
 .navbar-toggle {
 	background-color: #CCC81E;

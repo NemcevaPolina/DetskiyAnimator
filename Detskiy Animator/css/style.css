@@ -170,6 +170,9 @@ img, img.responsive {
 	font-weight: 700;
 	font-style: italic;
 }
+.color-white {
+    color: #fff;
+}
 .color-red {
 	color: #D97883;
 }
@@ -189,6 +192,9 @@ img, img.responsive {
 .color-lightyellow {
     color: #FFE6C5;
 }
+.color-textyellow {
+    color: #875345;
+}
 
 .color-purple {
     color: #A698D5;
@@ -199,6 +205,10 @@ img, img.responsive {
 .color-lightpurple {
     color: #C2C0E5;
 }
+.color-textpurple {
+    color: #434375;
+}
+
 
 .color-blue {
     color: #87CEE0;
@@ -208,6 +218,9 @@ img, img.responsive {
 }
 .color-lightblue {
     color: #CDE7E6;
+}
+.color-textblue {
+    color: #3c566f;
 }
 
 .color-green {
@@ -231,8 +244,8 @@ img, img.responsive {
 .header-section { background-color:#7AA0C4; }
 .features-section  { background-color:#FAD18F; }
 .reviews-section { background-color:#D97883; }
-.app-services-section { background-color:#18549b; }
-.app-screen-section { background-color:#ecf0f1; }
+.app-services-section { background-color:#bad97c; }
+.app-screen-section { background-color:#fad18f; }
 .pricing-section { background-color:#ffffff; }
 .video-section { background-color:#2c3e50; }
 .download-section { background-color:#ecf0f1; }
@@ -319,17 +332,14 @@ img, img.responsive {
 	background: #CDE7E6;
 	color: #7AA0C4;
 }
+
 .white-btn {
-	border-color: #FFFFFF;
-	color: #FFFFFF;
-}
-.white-btn {
-    border-color: #CDE7E6;
-    color: #CDE7E6;
+    border-color: #3c566f;
+    color: #3c566f;
 }
 .white-btn:hover, .white-btn:active, .white-btn:focus {	
-	background: #CDE7E6;
-	color: #7AA0C4;
+	background: #3c566f;
+	color: #7aa0c4;
 }
 
 /* =========================== HEADER SECTION ============================== */
@@ -348,7 +358,7 @@ img, img.responsive {
 /* ------------- Logo & Menu ------------- */
 .logo-container {
 	background: rgba(166, 152, 213);
-	color: #fff;
+	color: #7373a7;
 	padding: 16px 0 13px;
 }
 .sticky-navigation {
@@ -368,15 +378,15 @@ img, img.responsive {
 }
 .top-navbar ul.nav a:hover, .top-navbar ul.nav a:focus, .top-navbar ul.nav a:active, .top-navbar ul.nav li.active a {
 	background:none !important;
-	color: #7373A7;
+	color: #434375;
 }
 .navbar-toggle {
-	background-color: #CCC81E;
+	background-color: #a698d5;
 	margin-top:-40px;
 	margin-right:0px;
 }
 .navbar-toggle .icon-bar {
-	background-color:#FFFFFF;
+	background-color:#434375;
 }
 .navbar-nav {
 	margin: 0;
@@ -530,7 +540,7 @@ img, img.responsive {
 	clear: both;
 	float: left;
 	display: inline-block;
-	border-bottom: 1px solid #bdc3c7;
+	border-bottom: 1px solid #875345;
 	padding: 5px 12px 5px 0;	
 }
 .gk-list li .fa {
@@ -563,7 +573,7 @@ img, img.responsive {
 	font-size: 21px;
 }
 .features-line {
-	border-color: #bdc3c7;
+	border-color: #875345;
 	width: 78%;
 }
 .features-right-grid .text-right .features-line {	
@@ -577,7 +587,7 @@ img, img.responsive {
 	float: left;
 }
 .gk-divider {
-	border-right: 1px solid #bdc3c7;
+	border-right: 1px solid #875345;
 }
 .ipad-shot-wrapper {
 	margin-top: -130px;	
@@ -607,12 +617,12 @@ img, img.responsive {
 	font-size: 17px;
 	margin-bottom: 40px;
 	line-height: 1.6;
-    color: #FFC6C1;
+    color: #a55c6d;
 }
 .reviews-msg:before {
 	content: "\e004";	
 	font-family: Flaticon;
-	color: #FFC6C1;
+	color: #a55c6d;
 	font-size: 26px;
 }
 .reviews-image img {
@@ -624,7 +634,7 @@ img, img.responsive {
 	content: "";	
 	width: 100%;
 	height: 100%;
-	border: 1px solid #7f8c8d;
+	border: 1px solid #a55c6d;
 	border-radius: 50%;
 	padding: 0 7px;
 	font-size: 10px;
@@ -666,7 +676,7 @@ img, img.responsive {
 }
 .awesome-services {
     background: none repeat scroll 0 0 #fff;
-    border: 1px solid #397ed1;
+    border: 1px solid #a6a97a;
     border-radius: 12px;	
 	max-width: 312px;
 	margin: 0 auto;

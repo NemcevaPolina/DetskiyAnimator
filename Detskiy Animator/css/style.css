@@ -154,6 +154,7 @@ img, img.responsive {
 .text-bold {
 	font-weight: 700;
 }
+
 .light-italic {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
@@ -227,9 +228,9 @@ img, img.responsive {
     z-index: 99999;	
 }
 /* ------------- Section Background ------------- */
-.header-section { background-color:#D97883; }
+.header-section { background-color:#7AA0C4; }
 .features-section  { background-color:#FAD18F; }
-.reviews-section { background-color:#ffffff; }
+.reviews-section { background-color:#D97883; }
 .app-services-section { background-color:#18549b; }
 .app-screen-section { background-color:#ecf0f1; }
 .pricing-section { background-color:#ffffff; }
@@ -311,20 +312,24 @@ img, img.responsive {
 	color: #FFFFFF;
 }
 .red-btn {
-	border-color: #E36A01;
-	color: #E36A01;
+	border-color: #CDE7E6;
+	color: #CDE7E6;
 }
 .red-btn:hover, .red-btn:active, .red-btn:focus {
-	background: #E36A01;
-	color: #FFFFFF;
+	background: #CDE7E6;
+	color: #7AA0C4;
 }
 .white-btn {
 	border-color: #FFFFFF;
 	color: #FFFFFF;
 }
+.white-btn {
+    border-color: #CDE7E6;
+    color: #CDE7E6;
+}
 .white-btn:hover, .white-btn:active, .white-btn:focus {	
-	background: #FFFFFF;
-	color: #CCC81E;
+	background: #CDE7E6;
+	color: #7AA0C4;
 }
 
 /* =========================== HEADER SECTION ============================== */
@@ -461,7 +466,7 @@ img, img.responsive {
 	z-index: 10;
 }
 .banner-triangle:hover, .banner-triangle:active, .banner-triangle:focus {
-	color: #FFFFFF;	
+	color: #87cee0;	
 }
 .banner-triangle:hover {
 	opacity: 0.6;
@@ -602,11 +607,12 @@ img, img.responsive {
 	font-size: 17px;
 	margin-bottom: 40px;
 	line-height: 1.6;
+    color: #FFC6C1;
 }
 .reviews-msg:before {
 	content: "\e004";	
 	font-family: Flaticon;
-	color: #CCC81E;
+	color: #FFC6C1;
 	font-size: 26px;
 }
 .reviews-image img {

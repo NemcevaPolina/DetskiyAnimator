@@ -242,7 +242,7 @@ img, img.responsive {
 }
 /* ------------- Section Background ------------- */
 .header-section { background-color:#7AA0C4; }
-.features-section  { background-color:#FAD18F; }
+.features-section  { background-color:#7373a7; }
 .reviews-section { background-color:#D97883; }
 .app-services-section { background-color:#bad97c; }
 .app-screen-section { background-color:#fad18f; }
@@ -357,7 +357,7 @@ img, img.responsive {
 }
 /* ------------- Logo & Menu ------------- */
 .logo-container {
-	background: rgba(166, 152, 213);
+	background: rgba(250, 209, 143);
 	color: #7373a7;
 	padding: 16px 0 13px;
 }
@@ -374,11 +374,11 @@ img, img.responsive {
 .top-navbar ul.nav a {	
 	font-size: 13px;
 	font-weight: 800;	
-	color: #E6E8D3;
+	color: #fff;
 }
 .top-navbar ul.nav a:hover, .top-navbar ul.nav a:focus, .top-navbar ul.nav a:active, .top-navbar ul.nav li.active a {
 	background:none !important;
-	color: #434375;
+	color: #3c566f;
 }
 .navbar-toggle {
 	background-color: #a698d5;
@@ -540,7 +540,7 @@ img, img.responsive {
 	clear: both;
 	float: left;
 	display: inline-block;
-	border-bottom: 1px solid #875345;
+	border-bottom: 1px solid #fff;
 	padding: 5px 12px 5px 0;	
 }
 .gk-list li .fa {
@@ -573,7 +573,7 @@ img, img.responsive {
 	font-size: 21px;
 }
 .features-line {
-	border-color: #875345;
+	border-color: #fff;
 	width: 78%;
 }
 .features-right-grid .text-right .features-line {	
@@ -587,7 +587,7 @@ img, img.responsive {
 	float: left;
 }
 .gk-divider {
-	border-right: 1px solid #875345;
+	border-right: 1px solid #fff;
 }
 .ipad-shot-wrapper {
 	margin-top: -130px;	

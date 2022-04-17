@@ -567,6 +567,17 @@ img, img.responsive {
 .features-grid {
 	padding: 0 40px 10px 0;	
 }
+.margin-h4 {
+	margin-top: 20px;
+}
+.margin-h5 {
+	margin-bottom: 47px;
+}
+.img-icons-show {
+	font-size: 26px;
+	width: 50%;
+	padding-bottom: 10px;
+}
 .features-grid .fa, .features-grid .simple-icon {
 	font-size: 26px;
 	padding-bottom: 10px;

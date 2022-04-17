@@ -23,7 +23,7 @@
 .img-responsived {
     display: block;
     width: 50% \9;
-    max-width: 150%;
+    max-width: 250%;
     height: auto;
 }
 .thumbnail > img {
@@ -72,6 +72,7 @@ p{margin:0 0 10px}
 .col-md-7 {
     position: relative;
     min-height: 1px;
+    margin-top: 50px;
     padding-left: 15px;
     padding-right: 15px
 }

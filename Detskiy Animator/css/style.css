@@ -530,7 +530,7 @@ img, img.responsive {
 }
 /* =========================== FEATURES SECTION ============================== */
 .features-left-info {
-	padding: 120px 0 0 15px;
+	padding: 200px 0 0 15px;
 }
 .gk-list {   
     display: inline-block;
@@ -567,8 +567,9 @@ img, img.responsive {
 .features-grid {
 	padding: 0 40px 10px 0;	
 }
+
 .margin-h4 {
-	margin-top: 20px;
+	margin-top: 22px;
 }
 .margin-h5 {
 	margin-bottom: 47px;
@@ -608,7 +609,7 @@ img, img.responsive {
 	border-right: 1px solid #7373a7;
 }
 .ipad-shot-wrapper {
-	margin-top: -130px;	
+	margin-top: -300px;	
 	margin-left: -25px;
 }
 .features-right-info {
@@ -694,11 +695,11 @@ img, img.responsive {
 }
 .awesome-services {
     background: none repeat scroll 0 0 #fff;
-    border: 1px solid #a6a97a;
     border-radius: 12px;	
 	max-width: 312px;
 	margin: 0 auto;
 	padding: 40px 35px;
+	height: 450px;
 }
 .awesome-services .simple-icon {
     font-size: 32px;
@@ -719,6 +720,7 @@ img, img.responsive {
     left: 31%;
     top: 84%;
 }
+
 /* =========================== SCREENSHOT SECTION ============================== */
 .app-left-info {
 	padding-top: 70px;

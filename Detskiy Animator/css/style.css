@@ -241,15 +241,15 @@ img, img.responsive {
     z-index: 99999;	
 }
 /* ------------- Section Background ------------- */
-.header-section { background-color:#7AA0C4; }
-.features-section  { background-color:#7373a7; }
-.reviews-section { background-color:#D97883; }
+.header-section { background-color:#87cee0; }
+.features-section  { background-color:#a698d5; }
+.reviews-section { background-color:#d97883; }
 .app-services-section { background-color:#bad97c; }
-.app-screen-section { background-color:#fad18f; }
-.pricing-section { background-color:#ffffff; }
-.video-section { background-color:#2c3e50; }
+.app-screen-section { background-color:#87cee0; }
+.pricing-section { background-color:#a698d5; }
+.video-section { background-color:#d97883; }
 .download-section { background-color:#ecf0f1; }
-.contact-section { background-color:#cdc81e; }
+.contact-section { background-color:#bad97c; }
 
 .section-padding {
 	padding: 100px 0;
@@ -589,7 +589,7 @@ img, img.responsive {
 	float: left;
 }
 .gk-divider {
-	border-right: 1px solid #fff;
+	border-right: 1px solid #7373a7;
 }
 .ipad-shot-wrapper {
 	margin-top: -130px;	
@@ -758,7 +758,7 @@ img, img.responsive {
 	margin: 0 auto;
 }
 .pricing-title {
-	background: none repeat scroll 0 0 #1a2836;
+	background: none repeat scroll 0 0 #434375;
     border-radius: 10px 10px 0 0;
     padding: 20px 0;
 }

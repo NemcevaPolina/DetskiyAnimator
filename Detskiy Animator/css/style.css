@@ -492,8 +492,8 @@ img, img.responsive {
 }
 /* ------------- Right Banner Styles ------------- */
 .right-banner-image {
-	/*padding-left: 200px;*/
-	padding-top: 10px;
+	padding-left: 300px;
+	padding-top: 70px;
 	margin-top: 10px;
 	margin-left: 0;
 }

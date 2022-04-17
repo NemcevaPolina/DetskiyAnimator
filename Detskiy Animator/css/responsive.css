@@ -612,6 +612,7 @@
 	/* ------- Logo & Menu ------- */	
 	.logo img {
 		margin: 0;
+		width: 100px; 
 	}
 	.navbar-collapse {
 		border: none;

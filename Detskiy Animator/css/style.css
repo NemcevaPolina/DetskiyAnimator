@@ -368,7 +368,7 @@ img, img.responsive {
 }
 /* -------- Navigation --------- */
 .top-navbar {
-	margin: 0;
+	margin: 20px;
 	min-height: inherit;
 }
 .top-navbar ul.nav a {	

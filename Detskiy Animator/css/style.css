@@ -437,8 +437,8 @@ img, img.responsive {
 /* =========================== BANNER SECTION ============================== */
 /* ------------- Left Banner Styles ------------- */
 .left-banner-text {
-	margin-top: 60px;
-	padding-top: 50px;
+	margin-top: 10px;
+	padding-top: 20px;
 	color: #FFFFFF;
 }
 .after-1500 .left-banner-text {
@@ -493,8 +493,8 @@ img, img.responsive {
 /* ------------- Right Banner Styles ------------- */
 .right-banner-image {
 	padding-left: 300px;
-	padding-top: 70px;
-	margin-top: 10px;
+	padding-top: 10px;
+	margin-top: 0;
 	margin-left: 0;
 }
 .banner-image-info {

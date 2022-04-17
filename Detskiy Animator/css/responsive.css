@@ -20,7 +20,7 @@
 	}	
 	/* ------- Banner Styles ------- */
 	.left-banner-text {
-		margin-top: 30px;
+		margin-top: 10px;
 		padding-top: 30px;
 	}
 	.banner-text {
@@ -294,7 +294,7 @@
 		padding: 0;
 	}	
 	.right-banner-image {
-		margin-top: 0;
+		margin-top: 30px;
 		padding-left: 15px;
 		padding-right: 15px;
 	}
@@ -600,7 +600,7 @@
 @media only screen and (max-width:767px) {
 	/* ------- Banner Section ------- */	
 	.right-banner-image {
-		margin-top: 20px;
+		margin-top: 0px;
 	}
 	.banner-left-margin, .banner-image-info {
 		margin: 0;

@@ -445,7 +445,7 @@ img, img.responsive {
 	margin-top: 30px;
 }
 .after-1500 .right-banner-image {
-	margin-top: 20px;
+	margin-top: 10px;
 }
 .left-banner-text h1 {
 	font-size: 53px;
@@ -492,8 +492,10 @@ img, img.responsive {
 }
 /* ------------- Right Banner Styles ------------- */
 .right-banner-image {
+	/*padding-left: 200px;*/
 	padding-top: 10px;
-	margin-top: 50px;
+	margin-top: 10px;
+	margin-left: 0;
 }
 .banner-image-info {
 	margin-top: 410px;

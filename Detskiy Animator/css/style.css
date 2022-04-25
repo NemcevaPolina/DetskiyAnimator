@@ -182,7 +182,9 @@ img, img.responsive {
 .color-lightred {
     color: #ffc5c1;
 }
-
+.color-black {
+    color: #000000;
+}
 .color-yellow {
     color: #FAD18F;
 }

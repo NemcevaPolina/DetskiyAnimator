@@ -800,6 +800,7 @@ img, img.responsive {
 }
 .pricing-title h3 {
 	font-size: 40px;
+	padding-left: 10px;
 }
 .pricing-box .symbol { 
 	font-size: 21px;
@@ -808,9 +809,9 @@ img, img.responsive {
 	padding-right: 8px;
 }
 .pricing-box .price h6 { 
-	font-size: 30px;
+	font-size: 25px;
 	line-height: 30px;
-	padding-left: 20px;
+	padding-left: 10px;
 	margin-top: 15px;
 	margin-bottom: 20px;
 }
@@ -832,11 +833,15 @@ img, img.responsive {
 	width: auto;
 	padding-right: 20px;
 	padding-left: 20px;
+	margin-right: 100px;
 }
 .img-show {
-	width: 500px;
-	padding-right: 20px;
-	padding-left: 20px;
+	width: 250px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.button-show {
+
 }
 /* =========================== DEMO SECTION ============================== */
 .video-bg{
